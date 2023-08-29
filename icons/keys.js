@@ -1,10 +1,5 @@
-// 1fbe49fc64c27ea81e714b8cc17a3525  --> api-key
-
 function api(){
-
-
-    const apiKey="1fbe49fc64c27ea81e714b8cc17a3525";
+    const apiKey="1e3cf4d8c7ebbf000b3f26b159420a07";
     return apiKey;
 }
-
 export default api
